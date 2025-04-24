@@ -1,0 +1,854 @@
+.club-day-website,
+.club-day-website * {
+  box-sizing: border-box;
+}
+.club-day-website {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  padding: 15px 0px 15px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1268px;
+  position: relative;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 1;
+  position: relative;
+}
+.notre-dame-university-bangladesh-computer-club {
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: relative;
+  text-wrap: wrap;
+}
+.notre-dame-university-bangladesh-computer-club-span {
+  color: #4e4e4e;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+}
+.notre-dame-university-bangladesh-computer-club-span2 {
+  color: #e15d25;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+}
+.presents {
+  color: #4e4e4e;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  position: relative;
+}
+.tech {
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+  position: relative;
+}
+.tech-span {
+  color: #e05c25;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+}
+.tech-span2 {
+  color: #3c76ff;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 50px;
+  font-weight: 800;
+}
+.ndubcc-logo-png-2048-x-1716-2 {
+  flex-shrink: 0;
+  width: 120.55px;
+  height: 101px;
+  /* position: absolute; */
+  left: 44px;
+  top: 34px;
+  object-fit: cover;
+  aspect-ratio: 120.55/101;
+}
+.vector-1 {
+  flex-shrink: 0;
+  width: 1268px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: auto;
+  /* width: 1140px; */
+  position: relative;
+}
+.sweet-savory {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-2 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.frame-13 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-14 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.rectangle-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+}
+.jar-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-100-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-2 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.cup-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-40-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-3 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.black-forest-slice-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-4 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.white-forest-slice-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-5 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.orange-cake-slice-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-6 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.red-velvet-tub-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-200-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-7 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.jar-cake-tub-cake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-8 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.donut {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-70-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.sandwich {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-50-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-9 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.burger {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.pizza {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-10 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  height: 367px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.kolijar-singara {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-30-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.chicken-somosa {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.juice {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-22 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.mint-lemonade {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.lassi {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.price-60-tk {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.watermelon {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.coffee-milkshakes {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-23 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.boba-cold-coffee {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.vanilla-chocolate-milkshake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.kit-kat-milkshake {
+  color: #0a2f85;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.frame-40 {
+  background: #d7e3ff;
+  border-radius: 5px;
+  padding: 9px 19px 9px 19px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.add-boba-30-tk {
+  color: #0e1a38;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.handmade-bangles-75-250-tk-per-piece {
+  color: #0a2f85;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-24 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.frame-15 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-22 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-32 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-42 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-52 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.handmade-rings-50-150-tk-per-piece {
+  color: #0a2f85;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-25 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.ornaments-50-350-tk-per-piece {
+  color: #0a2f85;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  position: relative;
+}
+.vector-26 {
+  flex-shrink: 0;
+  width: 293px;
+  height: 0px;
+  position: relative;
+  overflow: visible;
+}
+.frame-62 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-72 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-82 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-92 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-102 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-11 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-122 {
+  background: #ffffff;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 270px;
+  position: relative;
+  box-shadow: 0px 0px 8px 2px rgba(60, 118, 255, 1);
+}
+.frame-402 {
+  background: #1e1e1e;
+  padding: 16px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: auto;
+  position: relative;
+  text-align: center;
+}
+.visit-our-facebook-page {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ReemKufi-SemiBold", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logos-facebook {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.https-www-facebook-com-ndubcc {
+  color: #ffffff;
+  text-align: center;
+  font-family: "ReemKufi-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+}
+._2017-2025-notre-dame-university-bangladesh-computer-club {
+  color: #ffffff;
+  font-family: "ReemKufi-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  position: relative;
+  text-align: center;
+}
