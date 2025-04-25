@@ -88,17 +88,6 @@
   object-fit: cover;
   aspect-ratio: 120.55/101;
 }
-.frame-35 {
-  padding: 15px 0px 15px 0px;
-  display: flex;
-  flex-direction: column;
-  gap: 47px;
-  align-items: center;
-  justify-content: center;
-  flex-shrink: 0;
-  width: 1268px;
-  position: relative;
-}
 .Banner {
   flex-shrink: 0;
   width: auto;
