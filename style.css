@@ -88,15 +88,6 @@
   object-fit: cover;
   aspect-ratio: 120.55/101;
 }
-.Banner {
-  flex-shrink: 0;
-  width: auto;
-  height: auto;
-  left: auto;
-  top: auto;
-  object-fit: cover;
-  aspect-ratio: auto;
-}
 .vector-1 {
   flex-shrink: 0;
   width: 1268px;
