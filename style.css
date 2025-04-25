@@ -83,7 +83,26 @@
   flex-shrink: 0;
   width: 120.55px;
   height: 101px;
-  /* position: absolute; */
+  left: 44px;
+  top: 34px;
+  object-fit: cover;
+  aspect-ratio: 120.55/101;
+}
+.frame-35 {
+  padding: 15px 0px 15px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 47px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1268px;
+  position: relative;
+}
+.ndubcc-logo-png-2048-x-1716-2 {
+  flex-shrink: 0;
+  width: 120.55px;
+  height: 101px;
   left: 44px;
   top: 34px;
   object-fit: cover;
